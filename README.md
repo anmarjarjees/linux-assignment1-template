@@ -25,10 +25,13 @@ Follow these steps to use this repository as a starting point for your assignmen
 5. You can now start editing files directly in the browser without needing to install Git or clone anything.
 
 # Folder Structure:
+Below is the folder structure of this repo with the help of **AI tool**:
+```
 linux-assignment1/
 │
 ├── docs/
 │   ├── guide.txt
+│   ├── *assignment1_groupX_theory.txt* # You will create this file for Part "A"
 │   └── notes/
 │       └── lecture1.txt
 │
@@ -50,3 +53,4 @@ linux-assignment1/
 │
 ├── .gitignore
 └── README.md
+```
